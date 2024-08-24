@@ -6,6 +6,8 @@ Alzheimer’s Disease is a severe neurological brain disorder. It destroys brain
 
 ## Proposed System 
 
+![Alzheimers system design](https://github.com/user-attachments/assets/1aaa0440-db45-443f-8d4e-b5a31bb7c146)
+
 This project is aimed at Medical professionals in early AD detection using numeric fMRI data with demographic and clinical predictors. 
 We developed and Evaluated multiple Machine Learning algorithms including 
 + Logistic Regression with Imputation and with DropNA
@@ -21,6 +23,11 @@ We developed and Evaluated multiple Machine Learning algorithms including
 ## Results
 
 Based on this analysis, we present to you, a Random forest classifier, as the best algorithm to predict the probable presence of AD in the early stages with the accuracy of 86.6%.
+
+![Alzheimers results](https://github.com/user-attachments/assets/f40223ed-89af-4530-b72c-096effc64459)
+
+
+
 
 
 
